@@ -1,0 +1,8 @@
+[package]
+name = "tiny_http_fun"
+version = "0.1.0"
+authors = ["Andrew Demonov"]
+
+[dependencies]
+tiny_http = "0.5"
+num_cpus = "1.6"
